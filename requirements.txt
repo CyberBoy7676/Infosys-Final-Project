@@ -1,0 +1,7 @@
+Flask
+moviepy
+whisper
+gTTS
+pydub
+langchain
+langchain-google-genai
